@@ -2,6 +2,10 @@
 
 🚀 **A Prototype for Smarter Job Searching**  
 
+
+🔗 **Live Demo:** [JobsXit is live!](https://theon3andonlym.github.io/JobsXit/)
+
+
 ### **Overview**  
 JobsXit is an innovative job aggregator platform designed to simplify job searching. Instead of checking multiple job boards separately, users can search from one unified platform—similar to flight comparison sites.  
 
